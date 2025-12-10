@@ -1,7 +1,5 @@
 # Plant Parenthood
-## https://plant-parenthood.herokuapp.com
 Become a better plant parent. Plant Parenthood is a database of over 200+ common indoor houseplants. Sign up to easily track plants you own and have quick access to their care information.
-### Test User Login: jane_doe@email.com | plantparenthood321
 
 ![](http://www.jacquelynmarcella.com/img/plant-parenthood-1.jpg)
 ![](http://www.jacquelynmarcella.com/img/plant-parenthood-mobile.jpg)
